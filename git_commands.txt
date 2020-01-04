@@ -1,0 +1,24 @@
+
+GIT CLI
+Download GIT command line tool from https://git-scm.com/downloads
+
+git --version
+to check successful installation
+
+git status
+to get the current state of the repository
+
+git init
+create initialize empty git repository in local system
+
+git add
+add files to the staging area to be tracked by git
+
+git commit -m "commit message"
+save the changes to local repository
+
+(git commit -am "commit message"
+add files and save the changes to local repository)
+
+git push -u origin master
+save the changes to global repository
