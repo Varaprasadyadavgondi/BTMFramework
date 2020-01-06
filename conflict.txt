@@ -1,2 +1,6 @@
 Line from master
-Another line from master
+
+Line from branch1
+
+
+
